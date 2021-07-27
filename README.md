@@ -1,3 +1,3 @@
 # gama-no-github-2
 
-Eu estou gostando do conteudo blablablalbalba
+Este curso de git foi muito util, muito mesmo gostei muito, Obrigado!!
